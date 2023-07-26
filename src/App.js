@@ -366,7 +366,7 @@ function App() {
         { id: 14, amount: "$ 500,000" },
         { id: 15, amount: "$ 1,000,000" },
       ].reverse(),
-    []
+    [questionNumber]
   );
 
   useEffect(() => {
