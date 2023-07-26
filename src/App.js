@@ -90,7 +90,7 @@ function App() {
         },
         {
           text: "Harry Potter",
-          correct: false,
+          correct: fasle,
         },
         {
           text: "Stranger Things",
